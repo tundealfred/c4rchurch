@@ -1,4 +1,15 @@
+Responsive website for a religious organization.
 
-Using: HTML, CSS, SCSS, JavaScript, React, Sanity.io(Backend)
+Features
+•	Responsive design
 
-Link: https://c4rchurch.netlify.app/
+Built With
+•	HTML
+•	CSS
+•	SCSS
+•	JavaScript
+•	React
+•	SANITY (BACKEND)
+
+Author
+•	Babatunde Alfred
